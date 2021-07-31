@@ -19,12 +19,12 @@ The function is declared like this:
 ```
 
 ```
-print('what to print')
+print('what to print example')
 ```
 
 e.g. When you hit **run**, this is what should happen:
 ![](https://cdn.fs.teachablecdn.com/q89uzhvRTf6CZHLtxLm6)
- 
+
 # Test Your Code
 
 Before checking the solution, try copy-pasting your code into this repl: 
