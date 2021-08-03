@@ -7,4 +7,4 @@ En los siguientes apartados se refieren a los indices de contenido desarrollados
 3. Dia 3 Operadores Condicionales
 4. Funciones Random y Listas
 5. For (variable y in range (start,end))
-6. While y ejercicios de [Reeborg's World]
+6. While y ejercicios de [Reeborg's World].
