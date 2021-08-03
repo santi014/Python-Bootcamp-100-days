@@ -8,3 +8,4 @@ En los siguientes apartados se refieren a los indices de contenido desarrollados
 4. Funciones Random y Listas
 5. For (variable y in range (start,end))
 6. While y ejercicios de [Reeborg's World].
+7. Proyecto hangman e importacion Modulos
