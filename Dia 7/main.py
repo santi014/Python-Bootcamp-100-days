@@ -1,6 +1,6 @@
-import random # Funcion random
-import hangman_art # Importa ascii logo y ahorcado lista
-import hangman_words # Importa el diccionario de palabras
+import random  # Funcion random
+import hangman_art  # Importa ascii logo y ahorcado lista
+import hangman_words  # Importa el diccionario de palabras
 
 # TODO-1: - Update the word list to use the 'word_list' from hangman_words.py
 
@@ -35,9 +35,11 @@ while not end_of_game:
             display[position] = letter
 
     # Check if user is wrong.
+
     if guess not in chosen_word:
         # TODO-5: - If the letter is not in the chosen_word, print out the letter and let them know it's not in the
         #  word.
+
         print(f"No adivinaste esta letra {guess}, pierdes una vida")
         lives -= 1
         if lives == 0:
